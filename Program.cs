@@ -64,3 +64,4 @@ string convertirfecha(int fechaNum)
     return mes;
 }
 Console.WriteLine("nano gey");
+Console.WriteLine("nano gey2");
